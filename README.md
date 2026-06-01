@@ -8,7 +8,7 @@ My C++ learning journey.
 - Calculator
 - Grade Calculator
 - Multiplication Table Generator
-- Even/Odd Checkergit add
+- Even/Odd Checker
 
 ## Upcoming Projects
 

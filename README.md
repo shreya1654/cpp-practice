@@ -9,10 +9,10 @@ My C++ learning journey.
 - Grade Calculator
 - Multiplication Table Generator
 - Even/Odd Checker
+- Prime Number Checker
 
 ## Upcoming Projects
 
-- Prime Number Checker
 - Largest of 3 Numbers
 - Sum of First N Numbers
 - Factorial Calculator

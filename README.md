@@ -1,6 +1,11 @@
 # cpp-practice
 
-My C++ learning journey.
+My C++ learning journey through basic programs, problem-solving exercises, and mini projects.
+
+## Progress
+
+- Programs Completed: 9
+- Upcoming Projects: 11
 
 ## Programs Completed
 
@@ -10,14 +15,25 @@ My C++ learning journey.
 - Multiplication Table Generator
 - Even/Odd Checker
 - Prime Number Checker
-
-## Upcoming Projects
-
 - Largest of 3 Numbers
 - Sum of First N Numbers
 - Factorial Calculator
+
+## Upcoming Projects
+
+### Problem Solving
+- Temperature Converter
+- Unit Converter
+- Palindrome Checker
+- Reverse Number
+- Armstrong Number Checker
+- Fibonacci Series Generator
+
+### Mini Games
 - Number Guessing Game
 - Rock Paper Scissors
+- Dice Simulator
+- Coin Toss Simulator
 - Tic Tac Toe
 
 ## Goals

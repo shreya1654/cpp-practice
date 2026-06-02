@@ -35,15 +35,15 @@ int main()
     {
         cout << "GRADE: A" << endl;
     }
-     else if (percentage < 90 and percentage >= 80)
+     else if (percentage < 90 && percentage >= 80)
     {
         cout << "GRADE: B" << endl;
     }
-    else if (percentage < 80 and percentage >= 70)
+    else if (percentage < 80 && percentage >= 70)
     {
         cout << "GRADE: C" << endl;
     }
-    else if (percentage < 70 and percentage >= 60)
+    else if (percentage < 70 && percentage >= 60)
     {
         cout << "GRADE: D" << endl;
     }

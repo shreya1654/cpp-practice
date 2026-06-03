@@ -4,8 +4,8 @@ My C++ learning journey through basic programs, problem-solving exercises, and m
 
 ## Progress
 
-- Programs Completed: 9
-- Upcoming Projects: 11
+- Programs Completed: 11
+- Upcoming Projects: 9
 
 ## Programs Completed
 
@@ -18,12 +18,13 @@ My C++ learning journey through basic programs, problem-solving exercises, and m
 - Largest of 3 Numbers
 - Sum of First N Numbers
 - Factorial Calculator
+- Temperature Converter
+- Unit Converter
 
 ## Upcoming Projects
 
 ### Problem Solving
-- Temperature Converter
-- Unit Converter
+
 - Palindrome Checker
 - Reverse Number
 - Armstrong Number Checker

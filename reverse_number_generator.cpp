@@ -9,18 +9,18 @@ int main()
     cin >> num; 
 
     //DECLARING A VARIABLE TO STORE REVERSED NUMBER
-    int reverse = 0;
+    int reverse_num = 0;
 
     //REVERSING THE NUMBER
     while (num > 0) 
     {
         int digit = num % 10;   // GETTING THE LAST DIGIT
-        reverse = reverse * 10 + digit;   // APPENDING THE DIGIT TO THE REVERSED NUMBER
+        reverse_num = reverse_num * 10 + digit;   // APPENDING THE DIGIT TO THE REVERSED NUMBER
         num /= 10;   // REMOVING THE LAST DIGIT
     }
 
     // DISPLAYING THE REVERSED NUMBER
-    cout << "Reversed number: " << reverse << endl;
+    cout << "Reversed number: " << reverse_num << endl;
 
     return 0;
 }

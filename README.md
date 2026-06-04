@@ -4,8 +4,8 @@ My C++ learning journey through basic programs, problem-solving exercises, and m
 
 ## Progress
 
-- Programs Completed: 11
-- Upcoming Projects: 9
+- Programs Completed: 13
+- Upcoming Projects: 7
 
 ## Programs Completed
 
@@ -20,13 +20,13 @@ My C++ learning journey through basic programs, problem-solving exercises, and m
 - Factorial Calculator
 - Temperature Converter
 - Unit Converter
+- Reverse Number Generator
+- Palindrome Number Checker
 
 ## Upcoming Projects
 
 ### Problem Solving
 
-- Palindrome Checker
-- Reverse Number
 - Armstrong Number Checker
 - Fibonacci Series Generator
 
